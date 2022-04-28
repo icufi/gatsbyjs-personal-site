@@ -4,7 +4,7 @@ const services = [
   {
     id: 1,
     icon: <FaCode className="service-icon" />,
-    title: "full stack and web3 development",
+    title: "full stack Web and web3 development",
     text: `MERN Full Stack including NodeJS, Express, React, MongoDB, Solidity, Web3JS, IPFS, Truffle, GatsbyJS, HTML, CSS, Material UI, GraphQL, REST APIs.`,
   },
   {
@@ -16,7 +16,7 @@ const services = [
   {
     id: 3,
     icon: <FaAndroid className="service-icon" />,
-    title: "app development",
+    title: "mobile app development",
     text: `React Native Android and IOS`,
   },
 ]
